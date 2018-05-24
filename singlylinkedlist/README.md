@@ -1,4 +1,4 @@
-# Singly Linked List
+# Singly Linked Lists
 
 Singly Linked Lists are a chain of nodes, each storing an element and the reference to the next node. Linked Lists are dynamic, so nodes are created whenever we need to. Therefore, we don't have to worry about the capacity of the list like in Arrays.
 
