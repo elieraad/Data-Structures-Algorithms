@@ -15,4 +15,4 @@ Drawbacks:
 <li>Each node need two objects “element” and “next”.</li>
 <li>Inefficient to shift since we need to remove from the first element create a new node and add it to the tail of the list.</li>
 </ul>
-Read more at <a href="elie-raad.blogspot.com">my blog</a>.
+Read more at www.elie-raad.blogspot.com.
