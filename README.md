@@ -1,7 +1,7 @@
 # Get in touch
 <ul>
-  <li><a href="www.elie-raad.blogspot.com">Personal Blog</a></li>
-  <li><a href="www.linkedin/in/elieraad.com">LinkedIn Profile</a></li>
+  <li>Personal Blog: www.elie-raad.blogspot.com</li>
+  <li>LinkedIn Profile: www.linkedin/in/elieraad.com</li>
   <li><a href="mailto:elie.raad01@lau.edu">Email</a></li>
 </ul>
 
